@@ -43,7 +43,7 @@ Managing groceries in families often leads to:
 ![Scattered Grocery Lists](.1.gif)
 
 ### Solution – Thalaja App
-![Thalaja Screens](.2.png)
+![Thalaja Screens](.2.jpg)
 
 ---
 
