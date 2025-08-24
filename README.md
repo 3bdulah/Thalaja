@@ -2,7 +2,11 @@
 
 **Thalaja** is an AI-powered shared grocery list app designed for families.  
 Built during the **Apple AI Foundation Program** at **Apple Developer Academy | TUWAIQ**, it helps families reduce waste, save time, and simplify grocery shopping.
-![Scattered Grocery Lists](1.gif)
+
+<p align="center">
+  <img src="1.gif" alt="Scattered Grocery Lists" width="400"/>
+</p>
+
 ---
 
 ## 📌 Overview
